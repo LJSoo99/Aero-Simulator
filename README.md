@@ -1,7 +1,6 @@
 # **Aero Simulator**
 
-![Aero Simulator Demo](https://via.placeholder.com/800x400?text=Demo+Image)  
-*(위 이미지 링크를 실제 데모 이미지로 교체하세요)*
+![22222](https://github.com/user-attachments/assets/d5aa9356-81d2-4ea7-9775-08a552f03b15)
 
 ## **프로젝트 소개**
 Aero Simulator는 브라우저 기반의 실시간 2D 유체 시뮬레이터로, 사용자가 유체의 흐름을 시각화하고, 물체와의 상호작용에 따른 항공역학적 데이터를 분석할 수 있는 도구입니다.  
@@ -42,17 +41,6 @@ Euler 방법과 Semi-Lagrangian 방식을 활용하여 다양한 유체 시뮬�
 - **HTML5 Canvas**: 유체 흐름의 그래픽 표현.
 - **JavaScript**: 물리 엔진 및 시뮬레이션 로직 구현.
 - **CSS**: UI 디자인 및 스타일링.
-
-### **프로젝트 구조**
-```
-.
-├── index.html           # 메인 HTML 파일
-├── style.css            # 스타일 정의
-├── script.js            # 유체 시뮬레이션 로직 구현
-└── README.md            # 프로젝트 설명
-```
-
----
 
 ## **설치 및 실행**
 ### **1. 클론**
@@ -106,7 +94,7 @@ GitHub Pages를 통해 프로젝트를 배포할 수 있습니다:
 ---
 
 ## **라이선스**
-이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 `LICENSE` 파일을 참조하세요.
+이 프로젝트는 MIT 라이선스 하에 배포됩니다.
 
 ---
 
@@ -115,5 +103,3 @@ GitHub Pages를 통해 프로젝트를 배포할 수 있습니다:
 - **202128682 최윤재**
 
 ---
-
-필요한 부분이 추가로 있다면 말씀해주세요! 😊
