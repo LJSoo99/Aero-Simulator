@@ -36,21 +36,6 @@ Euler 방법과 Semi-Lagrangian 방식을 활용하여 다양한 유체 시뮬�
 - **JavaScript**: 물리 엔진 및 시뮬레이션 로직 구현.
 - **CSS**: UI 디자인 및 스타일링.
 
-## **설치 및 실행**
-### **1. 클론**
-```bash
-git clone https://github.com/yourusername/aero-simulator.git
-cd aero-simulator
-```
-
-### **2. 로컬 실행**
-웹 브라우저에서 `index.html` 파일을 열어 실행합니다.
-
-### **3. GitHub Pages 배포**
-GitHub Pages를 통해 프로젝트를 배포할 수 있습니다:
-1. `Settings > Pages`로 이동.
-2. 배포 브랜치 선택 후 URL을 확인.
-
 ## **결과 및 시뮬레이션 예시**
 ### **1. Wind Tunnel**
 ![11111](https://github.com/user-attachments/assets/75660c51-1564-44f5-b260-e95e4bc7b473)
@@ -71,18 +56,3 @@ GitHub Pages를 통해 프로젝트를 배포할 수 있습니다:
    - 내부 마찰력을 반영하여 현실적인 흐름 구현.
 3. **다양한 장애물 처리**:
    - 복잡한 동적 경계 조건 및 객체 추가 가능성.
-
-## **기여 방법**
-1. 이 프로젝트를 포크합니다.
-2. 새로운 브랜치를 생성합니다: `git checkout -b feature-name`
-3. 변경 사항을 커밋합니다: `git commit -m "Add feature"`
-4. 브랜치에 푸시합니다: `git push origin feature-name`
-5. Pull Request를 생성합니다.
-
-## **라이선스**
-이 프로젝트는 MIT 라이선스 하에 배포됩니다.
-
-## **팀**
-- **202128683 이지수**  
-- **202128682 최윤재**
-
